@@ -1,6 +1,8 @@
 import esbuild from "esbuild";
 import process from "process";
 import builtins from "builtin-modules";
+import fs from "fs";
+import path from "path";
 
 const banner =
 `/*
@@ -15,7 +17,7 @@ const context = await esbuild.context({
 	banner: {
 		js: banner,
 	},
-	entryPoints: ["main.ts"],
+	entryPoints: ["main.ts", "styles.css"],
 	bundle: true,
 	external: [
 		"obsidian",
@@ -37,13 +39,15 @@ const context = await esbuild.context({
 	logLevel: "info",
 	sourcemap: prod ? false : "inline",
 	treeShaking: true,
-	outfile: "main.js",
 	minify: prod,
+	outdir: 'dist'
 });
 
 if (prod) {
 	await context.rebuild();
+	fs.cpSync('./manifest.json',path.resolve('dist', 'manifest.json'))
 	process.exit(0);
 } else {
 	await context.watch();
+	fs.writeFileSync(path.resolve('dist', '.hotreload'), '')
 }
