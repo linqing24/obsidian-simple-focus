@@ -2,9 +2,10 @@
 
 This plugin allows you to focus on a specific file or folder
 
-<video width="640" height="360" controls>
-  <source src="./preview.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/b97ca610-4533-4a74-a142-5d99e5999ee0
+
+
 
 ## usage
 
