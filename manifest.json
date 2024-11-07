@@ -1,7 +1,7 @@
 {
 	"id": "simple-focus",
-	"name": "simple focus",
-	"version": "1.0.0",
+	"name": "Simple Focus",
+	"version": "0.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "This plugin allows you to focus on a specific file or folder",
 	"author": "linqing",
