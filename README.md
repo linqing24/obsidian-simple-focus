@@ -1,8 +1,10 @@
 # obsidian simple focus plugin
 
-![macos](https://img.shields.io/badge/platform-macOS-333?logo=apple) ![ios](https://img.shields.io/badge/platform-iOS-333?logo=apple) ![macos](https://img.shields.io/badge/obsidian-plugin-7C3AED?logo=obsidian) ![GitHub License](https://img.shields.io/github/license/linqing24/obsidian-simple-focus) ![GitHub Release](https://img.shields.io/github/v/release/linqing24/obsidian-simple-focus)
 
 ![obsidian-simple-focus](https://socialify.git.ci/linqing24/obsidian-simple-focus/image?font=Inter&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
+
+![macos](https://img.shields.io/badge/platform-macOS-333?logo=apple) ![ios](https://img.shields.io/badge/platform-iOS-333?logo=apple) ![macos](https://img.shields.io/badge/obsidian-plugin-7C3AED?logo=obsidian) ![GitHub License](https://img.shields.io/github/license/linqing24/obsidian-simple-focus) ![GitHub Release](https://img.shields.io/github/v/release/linqing24/obsidian-simple-focus)
+
 
 This plugin allows you to focus on a specific file or folder
 
