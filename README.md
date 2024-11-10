@@ -7,6 +7,7 @@
 
 
 Allows you to focus on a specific file or folder
+
 让你可以专注于一个文件或文件夹
 
 
@@ -17,4 +18,5 @@ https://github.com/user-attachments/assets/b97ca610-4533-4a74-a142-5d99e5999ee0
 ## usage
 
 Right click a file and you can see a menu item called focus.After clicking, can hide other files in the file list.
+
 右键文件菜单，点击`专注`菜单，即可在文件列表中隐藏其它的文件
