@@ -15,8 +15,27 @@ https://github.com/user-attachments/assets/b97ca610-4533-4a74-a142-5d99e5999ee0
 
 
 
-## usage
+## usage（使用）
 
 Right click a file and you can see a menu item called focus.After clicking, can hide other files in the file list.
 
 右键文件菜单，点击`专注`菜单，即可在文件列表中隐藏其它的文件
+
+## install（安装）
+
+use [BRAT](https://github.com/TfTHacker/obsidian42-brat) or Copy main.js, styles.css, manifest.json to your vault path/to/your-vault/.obsidian/plugins/obsidian-simple-focus/
+
+## dev（开发）
+
+```bash
+git clone https://github.com/linqing24/obsidian-simple-focus
+cd obsidian-simple-focus
+pnpm i
+pnpm dev
+```
+
+## build（构建）
+
+```bash
+pnpm build
+```
