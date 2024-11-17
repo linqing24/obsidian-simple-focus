@@ -3,7 +3,7 @@
 	"name": "Simple Focus",
 	"version": "0.0.2",
 	"minAppVersion": "0.15.0",
-	"description": "This plugin allows you to focus on a specific file or folder",
+	"description": "Allows you to focus on a specific file or folder",
 	"author": "linqing",
     "authorUrl": "https://github.com/linqing24",
 	"isDesktopOnly": false

@@ -1,4 +1,4 @@
-# obsidian simple focus plugin
+# simple focus plugin
 
 [中文](./README-ZH.md)
 

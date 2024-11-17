@@ -1,4 +1,4 @@
-# obsidian simple focus plugin
+# simple focus plugin
 
 [en](./README.md)
 

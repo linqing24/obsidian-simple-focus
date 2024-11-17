@@ -1,7 +1,7 @@
 const lang = {
-  focus: "focus",
-  enterFocus : "enter focus",
-  exitFocus: "exit focus",
+  focus: "Focus",
+  enterFocus : "Enter focus",
+  exitFocus: "Exit focus",
 }
 
 export default lang
