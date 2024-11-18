@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-simple-focus-plugin",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "This plugin allows you to focus on a specific file or folder",
 	"main": "main.js",
 	"scripts": {
