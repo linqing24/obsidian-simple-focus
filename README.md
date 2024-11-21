@@ -10,7 +10,7 @@
 Allows you to focus on a specific file or folder
 
 
-https://github.com/user-attachments/assets/b97ca610-4533-4a74-a142-5d99e5999ee0
+![Kapture 2024-11-07 at 20 45 25](https://github.com/user-attachments/assets/7e24b35d-d2a6-4ad7-8f0a-fc0c0fa5d802)
 
 
 
